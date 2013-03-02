@@ -9,3 +9,6 @@ Period of development: May - July 2012
 Libraries used: OpenCV2.1
 
 Note: Image resources are not included
+
+To see a simple LSB steganography implementation, visit --> <br />
+https://github.com/shiladitya-bits/steganography
